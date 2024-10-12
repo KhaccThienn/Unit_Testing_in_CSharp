@@ -15,11 +15,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunGroupWebApp.Tests", "Run
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonReviewApplication", "PokemonReviewApplication\PokemonReviewApplication.csproj", "{40ABC927-8FA3-4C48-B538-D9FAB49162F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonReviewApplication.Tests", "PokemonReviewApplication.Tests\PokemonReviewApplication.Tests.csproj", "{6AE3BBF4-9BEF-4CBA-83F5-ADA1BD86232D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonReviewApplication.Tests", "PokemonReviewApplication.Tests\PokemonReviewApplication.Tests.csproj", "{6AE3BBF4-9BEF-4CBA-83F5-ADA1BD86232D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2C7257AA-6F96-49C6-ADAF-A2FD34A868CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{94A9CB06-7082-4D0D-BAC0-0BA0295FF114}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9B47AE9-09C2-4066-92C0-0AA385A8BFEC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
